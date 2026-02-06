@@ -11,6 +11,7 @@ dependencies = [
     "jupyterlab>=4.5.0",
     "notebook>=7.5.0",
     "openai>=2.9.0",
+    "openai-agents>=0.6.7",
     "pip>=25.3",
     "pypdf>=6.4.0",
 ]
