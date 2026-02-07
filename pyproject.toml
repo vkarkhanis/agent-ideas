@@ -15,3 +15,8 @@ dependencies = [
     "pip>=25.3",
     "pypdf>=6.4.0",
 ]
+
+[tool.uv.workspace]
+members = [
+    "tweeting-bot",
+]
